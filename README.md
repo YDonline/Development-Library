@@ -14,8 +14,7 @@
 
 ## 分支
 
-- [分支1 徐](https://github.com/2474942479/HD-Project/tree/Xu/Development%20Library)
-- [分支2 张](https://github.com/2474942479/HD-Project/tree/张/Development%20Library)
+- 
 
 ## 仓库结构
 
